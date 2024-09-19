@@ -1,0 +1,40 @@
+Software Development Life Cycle (SDLC)
+1. Requirement Analysis
+Gathering and analyzing user requirements to ensure the application meets their needs for data collection and reporting.
+
+2. Design
+Creating a clear structure for the program, including functions for collecting user data, calculating totals, categorizing requests, and generating reports.
+
+3. Implementation
+Writing clean and maintainable code, ensuring each function has a single responsibility, which enhances readability and facilitates debugging.
+
+4. Testing
+Implementing input validation to handle user errors and ensuring that all functionalities work as intended, including data collection and calculations.
+
+5. Deployment
+Packaging the application for easy access, allowing users to run the program without additional setup.
+
+6. Maintenance
+Regularly updating the code to fix bugs, improve features, and adapt to user feedback.
+
+Installation
+Prerequisites
+Python: Ensure you have Python 3.6 or higher installed on your machine. You can download it from python.org.
+Text Editor or IDE: Use any text editor or Integrated Development Environment (IDE) for Python development, such as VS Code, PyCharm, or Sublime Text.
+Step-by-Step Installation
+Clone the Repository Open your terminal and run the following command to clone the repository:
+
+git clone https://github.com/yourusername/user-data-collection.git
+Navigate to the Project Directory Change to the directory where the project was cloned:
+
+
+cd user-data-collection
+Verify Python Installation Ensure that Python is installed correctly by checking its version:
+
+Run the Application Execute the Python script to start the application:
+
+python3 main.py
+Follow On-Screen Instructions The application will prompt you to enter your name, age, and email. Input item names and their prices until you type 'finish' to see your detailed report.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
